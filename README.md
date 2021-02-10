@@ -1,5 +1,7 @@
 # Virtual Applied Data Science Training Program
 
+![alt text](https://the1joshuagroup.com/VADSTI/assets/img/HU-RCMI-Logo-Dark.gif)
+
 # Module 2: Data Exploration and Visualization
 
 This module provides recipes for exploratory data analysis and data visualization which are a critical step in any data science project. The goal of this module is to learn how to visualize and perform initial investigations of the data so as to discover patterns, spot anomalies, test hypothesis, and check assumptions with the help of summary statistics and graphical representations.
